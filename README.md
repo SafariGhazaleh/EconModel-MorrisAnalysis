@@ -1,4 +1,6 @@
 # EconModel-MorrisAnalysis
+The following assignment script is part of the coursework completed in the lecture "Computational Economics $II$" at TU Chemnitz, presented by Prof. Dr. Heinrich. Comments within the script acknowledge the course context, and where applicable, specify instances where the code is developed based on provided course materials.
+
 ## Problem
 In this assignment, the focus is on applying the Morris method, a computational economics model with numerous parameters. The Morris method aims to determine which parameters significantly influence the model's outcomes without the need for exhaustive calibration. The evaluation is based on a goodness function, specifically the Euclidean distance of average values from the target values in the second half of the simulation run. The targets include the average employment rate, average wage share, and average banking share, each calculated with respect to specified benchmarks.
 
